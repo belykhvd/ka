@@ -13,7 +13,7 @@ namespace KA2
              var graph = new List<List<int>>();
 
             int n;
-            using (var stream = new StreamReader("input.txt"))
+            using (var stream = new StreamReader("in.txt"))
             {
                 n = int.Parse(stream.ReadLine());
                 foreach (var i in Enumerable.Range(1, n))
@@ -25,7 +25,7 @@ namespace KA2
 
             var components = new List<IEnumerable<int>>();
             var unvisitedNodes = new LinkedList<int>(Enumerable.Range(1, n));
-            using (var stream = new StreamWriter("output.txt"))
+            using (var stream = new StreamWriter("out.txt"))
             {
                 while (unvisitedNodes.Count != 0)
                 {

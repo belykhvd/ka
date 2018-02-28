@@ -9,12 +9,12 @@ namespace KA1
     {
         private static void Main(string[] args)
         {
-            var figuresPositions = File.ReadAllText("input.txt")
+            var figuresPositions = File.ReadAllText("in.txt")
                 .Split(new [] {Environment.NewLine}, StringSplitOptions.None)
                 .Select(TranslateFromChessNotation).ToArray();
             
             var route = DepthFirstSearch(figuresPositions[0], figuresPositions[1]);
-            File.WriteAllLines("output.txt", route.Select(TranslateToChessNotation));
+            File.WriteAllLines("out.txt", route.Select(TranslateToChessNotation));
         }
 
         private static readonly IEnumerable<(int X, int Y)> KnightShifts = new[]
