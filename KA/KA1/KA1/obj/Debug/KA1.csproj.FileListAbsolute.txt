@@ -1,0 +1,7 @@
+c:\users\jesse pinkman\desktop\KA\KA1\KA1\bin\Debug\KA1.exe.config
+c:\users\jesse pinkman\desktop\KA\KA1\KA1\bin\Debug\KA1.exe
+c:\users\jesse pinkman\desktop\KA\KA1\KA1\bin\Debug\KA1.pdb
+c:\users\jesse pinkman\desktop\KA\KA1\KA1\obj\Debug\KA1.csprojResolveAssemblyReference.cache
+c:\users\jesse pinkman\desktop\KA\KA1\KA1\obj\Debug\KA1.csproj.CoreCompileInputs.cache
+c:\users\jesse pinkman\desktop\KA\KA1\KA1\obj\Debug\KA1.exe
+c:\users\jesse pinkman\desktop\KA\KA1\KA1\obj\Debug\KA1.pdb
