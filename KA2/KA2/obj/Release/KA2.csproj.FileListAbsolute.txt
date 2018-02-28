@@ -1,0 +1,6 @@
+C:\Users\Jesse Pinkman\Desktop\KA2\KA2\bin\Release\KA2.exe.config
+C:\Users\Jesse Pinkman\Desktop\KA2\KA2\bin\Release\KA2.exe
+C:\Users\Jesse Pinkman\Desktop\KA2\KA2\bin\Release\KA2.pdb
+C:\Users\Jesse Pinkman\Desktop\KA2\KA2\obj\Release\KA2.csproj.CoreCompileInputs.cache
+C:\Users\Jesse Pinkman\Desktop\KA2\KA2\obj\Release\KA2.exe
+C:\Users\Jesse Pinkman\Desktop\KA2\KA2\obj\Release\KA2.pdb

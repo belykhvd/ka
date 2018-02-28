@@ -1,0 +1,6 @@
+C:\Users\Jesse Pinkman\Desktop\KA\KA1\KA1\bin\Release\KA1.exe.config
+C:\Users\Jesse Pinkman\Desktop\KA\KA1\KA1\bin\Release\KA1.exe
+C:\Users\Jesse Pinkman\Desktop\KA\KA1\KA1\bin\Release\KA1.pdb
+C:\Users\Jesse Pinkman\Desktop\KA\KA1\KA1\obj\Release\KA1.csproj.CoreCompileInputs.cache
+C:\Users\Jesse Pinkman\Desktop\KA\KA1\KA1\obj\Release\KA1.exe
+C:\Users\Jesse Pinkman\Desktop\KA\KA1\KA1\obj\Release\KA1.pdb
